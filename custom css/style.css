@@ -1,0 +1,27 @@
+.honda-bg-blue{
+    background-color: #264653;
+}
+.honda-btn-bg{
+    background-color: #E76F51;
+}
+.honda-bg{
+    background-color: #E76F51;
+}
+.honda-grayscale img{
+    -webkit-filter: grayscale(100%); 
+
+    filter: grayscale(100%);
+}
+.honda-text{
+    color: #E76F51;
+}
+.course-ratings i {
+    font-size: 12px;
+    color: #E77C40;
+ }
+ .course-ratings i.blank {
+    color: #aeaeae;
+    opacity: 0.5;
+ }
+
+ 
